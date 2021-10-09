@@ -1,1 +1,1 @@
-# smart-contracts
+# AssetG Official Smart Contracts
